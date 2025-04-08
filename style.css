@@ -3,7 +3,7 @@
 :root {
     --cor-de-fundo: #F5F5F5; /* Fundo mais claro */
     --verde: #00FF00; /* Verde mais vibrante */
-    --branco: #FFFFFF; /* Branco */
+    --branco: #090a4b; /* Branco */
     --botao-ativo: #FF4500; /* Cor vibrante para o botão ativo (laranja/avermelhado) */
     --botao-inativo: rgba(255, 69, 0, 0.7); /* Cor inativa mais intensa */
     --texto-fundo: rgba(255, 69, 0, 0.1); /* Fundo de texto mais suave e vibrante */
